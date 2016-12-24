@@ -1,0 +1,19 @@
+{
+  "name": "clovercloud",
+  "version": "1.0.0",
+  "description": "the personal cloud storage,sync your doc,file,photos and note",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/backsapce/CloverCloud.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/backsapce/CloverCloud/issues"
+  },
+  "homepage": "https://github.com/backsapce/CloverCloud#readme"
+}
